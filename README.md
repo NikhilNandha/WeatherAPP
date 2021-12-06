@@ -20,6 +20,13 @@ pod 'OHHTTPStubs/Swift' - Used to test app with fake network data (stubbed from 
 Note: run 'pod install' to project root directory.
 
 
+# Localization
+
+Localized app in English, Dutch and Spanish
+
+(City names also can be localized via Localized API's)
+
+
 # Completed User Stories:
 
 As a User, I want to see a home screen with all the cities that are available on the API.
